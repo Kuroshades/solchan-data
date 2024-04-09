@@ -1,7 +1,7 @@
 {
     "name": "Solchan.org",
     "symbol": "SOLCHAN",
-    "image": "tbd",
+    "image": "https://raw.githubusercontent.com/Kuroshades/solchan-data/master/logo.png",
     "description": "Degen imageboard for degen community at https://solchan.org",
     "extensions": {
         "website": "https://solchan.org",
