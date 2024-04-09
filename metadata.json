@@ -1,0 +1,10 @@
+{
+    "name": "Solchan.org",
+    "symbol": "SOLCHAN",
+    "image": "tbd",
+    "description": "Degen imageboard for degen community at https://solchan.org",
+    "extensions": {
+        "website": "https://solchan.org",
+        "twitter": "https://twitter.com/Solchan_org"
+    }
+}
